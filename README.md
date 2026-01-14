@@ -21,6 +21,8 @@ This project contains automated tests for verifying bike listings on a web appli
 
 ###  Run the TestRunner file in src.test.java.runner Package
 
+### Wait for some time while the website loads before clicking on the city
+
 
 ### Test Cases -> src.test.java.steps.RoyalBrothersSteps
 
