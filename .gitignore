@@ -1,0 +1,31 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# Maven / Gradle
+target/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Node / Playwright
+node_modules/
+playwright-report/
+*.png
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / config
+.env
